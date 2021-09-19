@@ -1,5 +1,5 @@
-## List of ISO 639-1 codes
-### List of language names ordered by code
+# List of ISO 639-1 codes
+***
 |  #  |  Code  |  Name  |  Native  |  Dir  |
 |-----|--------|--------|----------|-------|
 | 1 | aa | Afar | Afar | ltr |
